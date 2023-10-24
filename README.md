@@ -1,4 +1,13 @@
 # Use GDExtension to create game
+- [Use GDExtension to create game](#use-gdextension-to-create-game)
+  - [电脑配置](#电脑配置)
+    - [设备规格](#设备规格)
+    - [Windows规格](#windows规格)
+  - [第一步：GDExtension环境搭建](#第一步gdextension环境搭建)
+    - [1. 下载Godot](#1-下载godot)
+    - [2. C++编译器](#2-c编译器)
+
+
 在前段时间Unity的风波下，我毅然放弃了Unity的学习，并在Unreal和Godot引擎两者中开始选择。
 
 起初摇摆不定，秉着不亏的想法把C++学了，后来在了解到godot引擎的开源性以及也支持C++，所以决定尝试使用godot引擎，并使用c++来进行游戏开发。
